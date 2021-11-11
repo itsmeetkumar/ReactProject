@@ -6,7 +6,7 @@ React/Node Small Project
 
 Developed RestFull API in Node JS EXPRESS framwork
 
-![](FrontEnd Image.png)
+
 
 # FrontEnd 
 
